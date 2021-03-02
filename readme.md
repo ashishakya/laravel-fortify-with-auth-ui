@@ -5,6 +5,7 @@
 - `php artisan migrate`
 - Copy `auth` and `layouts` directory from `laravel/ui` and paste in `views` directory.
 - Copy `css` and `js` directory from `public` directory from `laravel/ui` and paste in `public` directory.
+- Copy `home.blade.php` from `laravel/ui` package and paste in `views` directory.
 
 
 ### Additional Info:
